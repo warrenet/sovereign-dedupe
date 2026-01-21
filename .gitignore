@@ -1,0 +1,6 @@
+# Sovereign Dedupe artifacts
+sovereign_mission_plan.json
+sovereign_cleanup_plan.json
+sovereign_manifest_*.json
+sovereign_selftest_summary.json
+*.tmp
